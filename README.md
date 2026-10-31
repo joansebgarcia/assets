@@ -5,6 +5,7 @@ Assets. Ideas. Utilities.
 
 - [Front-End Development](#front-end-development)
 - [Blogs](#blogs)
+- [Roadmaps](#roadmaps)
 
 ## Front-End Development
 
@@ -21,4 +22,10 @@ Assets. Ideas. Utilities.
 ## Blogs
 
 ### Agents
-- [Graph Engineering with Claude Opus 5](https://x.com/angeldot_/status/2081061068516798931)
+- [Graph Engineering with Claude Opus 5](https://x.com/angeldot_/status/2081061068516798931) A 14-step roadmap for moving from simple prompts to managing a fleet of agents that work for you
+
+## Roadmaps
+
+### Design System
+
+- [Design System 001](./images/system_design_roadmap_001.jpeg) Concepts that organize a software design into a complete workflow
