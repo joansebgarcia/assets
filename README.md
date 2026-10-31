@@ -4,6 +4,7 @@ Assets. Ideas. Utilities.
 ## Contents
 
 - [Front-End Development](#front-end-development)
+- [Blogs](#blogs)
 
 ## Front-End Development
 
@@ -16,3 +17,8 @@ Assets. Ideas. Utilities.
 - [DESIGN.supply](https://www.designmd.supply/) A supply of style guides, generated.
 - [Aura Build](https://www.aura.build/) Create beautiful designs
 - [Neuform](https://neuform.ai/) Let's shape your first Neuform session.
+
+## Blogs
+
+### Agents
+- [Graph Engineering with Claude Opus 5](https://x.com/angeldot_/status/2081061068516798931)
