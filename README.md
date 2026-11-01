@@ -1,5 +1,5 @@
 # Assets
-Inspiration. Assets. Utilities.
+Inspirations. Assets. Utilities.
 
 ## Contents
 
