@@ -20,6 +20,16 @@ Assets. Ideas. Utilities.
 - [Neuform](https://neuform.ai/) Let's shape your first Neuform session.
 - [Banani Co](banani.co) Turn ideas and prompts into editable UI designs.
 - [3D Icons](https://3dicons.co/) Beautifully Crafted open source & premium 3D Icons.
+- [Astryx](https://astryx.atmeta.com/) An open source design system that's fully customizable and agent ready.
+- [ApppShot](https://www.apppshot.xyz/) Designing  App Store screenshots? Apppshot did the  digging for you.
+
+### Agent Skills
+- [Logo Design Skill](https://github.com/kaankiziltug/logo-design-skill) A comprehensive logo-design skill for Agents.
+
+### Components & Animation
+- [Kinetics](https://kinetics.colorion.co/) Spring animation examples for CSS and React.
+- [Aceternity UI](https://ui.aceternity.com/) The React component library for beautiful landing pages.
+- [MDXcn.dev](https://www.mdxcn.dev/) Markdown-friendly components for mdx
 
 ## Blogs
 
