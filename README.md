@@ -1,5 +1,5 @@
 # Assets
-Assets. Ideas. Utilities.
+Inspiration. Assets. Utilities.
 
 ## Contents
 
@@ -18,7 +18,7 @@ Assets. Ideas. Utilities.
 - [DESIGN.supply](https://www.designmd.supply/) A supply of style guides, generated.
 - [Aura Build](https://www.aura.build/) Create beautiful designs
 - [Neuform](https://neuform.ai/) Let's shape your first Neuform session.
-- [Banani Co](banani.co) Turn ideas and prompts into editable UI designs.
+- [Banani Co](https://banani.co/) Turn ideas and prompts into editable UI designs.
 - [3D Icons](https://3dicons.co/) Beautifully Crafted open source & premium 3D Icons.
 - [Astryx](https://astryx.atmeta.com/) An open source design system that's fully customizable and agent ready.
 - [ApppShot](https://www.apppshot.xyz/) Designing  App Store screenshots? Apppshot did the  digging for you.
