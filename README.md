@@ -24,6 +24,9 @@ Inspirations. Assets. Utilities.
 - [Astryx](https://astryx.atmeta.com/) An open source design system that's fully customizable and agent ready.
 - [ApppShot](https://www.apppshot.xyz/) Designing  App Store screenshots? Apppshot did the  digging for you.
 
+### Skills
+- [Impeccable](https://impeccable.style/) The missing design vocabulary for agents.
+
 ### Agent Skills
 - [Logo Design Skill](https://github.com/kaankiziltug/logo-design-skill) A comprehensive logo-design skill for Agents.
 
