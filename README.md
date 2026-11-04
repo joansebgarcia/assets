@@ -24,16 +24,32 @@ Inspirations. Assets. Utilities.
 - [Astryx](https://astryx.atmeta.com/) An open source design system that's fully customizable and agent ready.
 - [ApppShot](https://www.apppshot.xyz/) Designing  App Store screenshots? Apppshot did the  digging for you.
 
-### Skills
-- [Impeccable](https://impeccable.style/) The missing design vocabulary for agents.
-
 ### Agent Skills
 - [Logo Design Skill](https://github.com/kaankiziltug/logo-design-skill) A comprehensive logo-design skill for Agents.
+- [Impeccable](https://impeccable.style/) The missing design vocabulary for agents.
 
 ### Components & Animation
 - [Kinetics](https://kinetics.colorion.co/) Spring animation examples for CSS and React.
 - [Aceternity UI](https://ui.aceternity.com/) The React component library for beautiful landing pages.
 - [MDXcn.dev](https://www.mdxcn.dev/) Markdown-friendly components for mdx
+- [Amicro](https://amicro.dev/) Small Motion. Big difference.
+- [Interfaces](https://interfaces.dev/) Interfaces The Design Engineering Magazine
+- [React Bits](https://reactbits.dev/) Animated React components for websites people remember.
+- [Arc UI](https://uiarc.dev/) The React UI library your AI agents can build with.
+- [Audio cn](https://www.audiocn.dev/) Meters, faders, knobs, visualizers and a complete mixer for React. Built the shadcn way, so you own every line.
+- [Gauge UI](https://www.gauge-ui.dev/) Composable SVG gauge components for React, ready to integrate into your projects.
+
+### Icons
+- [Encyclopedia](https://encyclopedia.iconography.co/)
+
+### Wireframing
+[Squig](https://squig.sh/) squig is a design and rapid prototyping (wireframing) tool for creating user interface (UI) mockups.
+
+### Extensions
+- [Squints](https://squints.app/) Design is moving into code.
+
+### Mermaid
+- [Pele](https://pele.run/) Pele is a lightweight open source library that renders Mermaid diagrams to SVG, themed with CSS variables.
 
 ## Open Source
 
