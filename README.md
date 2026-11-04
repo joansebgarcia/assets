@@ -4,6 +4,7 @@ Inspirations. Assets. Utilities.
 ## Contents
 
 - [Front-End Development](#front-end-development)
+- [Open Source](#open-source)
 - [Blogs](#blogs)
 - [Roadmaps](#roadmaps)
 
@@ -30,6 +31,16 @@ Inspirations. Assets. Utilities.
 - [Kinetics](https://kinetics.colorion.co/) Spring animation examples for CSS and React.
 - [Aceternity UI](https://ui.aceternity.com/) The React component library for beautiful landing pages.
 - [MDXcn.dev](https://www.mdxcn.dev/) Markdown-friendly components for mdx
+
+## Open Source
+
+### Company Portals
+- [Meta Open Source](https://opensource.fb.com/) Meta's open source projects, tools and community.
+- [Microsoft Open Source](https://opensource.microsoft.com/) Microsoft's open source projects, programs and community.
+- [Google Open Source](https://opensource.google/) Google's open source projects, programs and documentation.
+- [Apple Open Source](https://opensource.apple.com/) Apple's open source releases and projects.
+- [AWS Open Source](https://aws.amazon.com/opensource/) Amazon Web Services' open source projects and contributions.
+- [Uber Open Source](https://uber.github.io/) Uber's open source projects.
 
 ## Blogs
 
