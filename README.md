@@ -40,7 +40,7 @@ Inspirations. Assets. Utilities.
 - [Gauge UI](https://www.gauge-ui.dev/) Composable SVG gauge components for React, ready to integrate into your projects.
 
 ### Icons
-- [Encyclopedia](https://encyclopedia.iconography.co/)
+- [Encyclopedia](https://encyclopedia.iconography.co/) The Iconography Encyclopedia.
 
 ### Wireframing
 [Squig](https://squig.sh/) squig is a design and rapid prototyping (wireframing) tool for creating user interface (UI) mockups.
