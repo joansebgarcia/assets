@@ -23,6 +23,8 @@ Inspirations. Assets. Utilities.
 - [3D Icons](https://3dicons.co/) Beautifully Crafted open source & premium 3D Icons.
 - [Astryx](https://astryx.atmeta.com/) An open source design system that's fully customizable and agent ready.
 - [ApppShot](https://www.apppshot.xyz/) Designing  App Store screenshots? Apppshot did the  digging for you.
+- [Sasspo](https://saaspo.com/) The best SaaS web design inspiration.
+- [Font In Logo](https://www.fontinlogo.com/) Search 'n find fonts used by World Brands.
 
 ### Agent Skills
 - [Logo Design Skill](https://github.com/kaankiziltug/logo-design-skill) A comprehensive logo-design skill for Agents.
@@ -42,6 +44,7 @@ Inspirations. Assets. Utilities.
 
 ### Icons
 - [Encyclopedia](https://encyclopedia.iconography.co/) The Iconography Encyclopedia.
+- [Icon Museum](https://icon.museum/) A collection of iconic app icons, beautifully preserved
 
 ### Wireframing
 [Squig](https://squig.sh/) squig is a design and rapid prototyping (wireframing) tool for creating user interface (UI) mockups.
