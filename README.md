@@ -27,6 +27,7 @@ Inspirations. Assets. Utilities.
 ### Agent Skills
 - [Logo Design Skill](https://github.com/kaankiziltug/logo-design-skill) A comprehensive logo-design skill for Agents.
 - [Impeccable](https://impeccable.style/) The missing design vocabulary for agents.
+- [Emil Kowalski's Skills](https://github.com/emilkowalski/skills) For designers and engineers to help them build better user interfaces.
 
 ### Components & Animation
 - [Kinetics](https://kinetics.colorion.co/) Spring animation examples for CSS and React.
@@ -71,3 +72,6 @@ Inspirations. Assets. Utilities.
 ### Design System
 
 - [Design System 001](./images/system_design_roadmap_001.jpeg) Concepts that organize a software design into a complete workflow
+
+### Architecture
+- [Tomato Architecture](https://tomato-architecture.github.io/) Tomato Architecture is a pragmatic approach to software architecture following the Core Principles
