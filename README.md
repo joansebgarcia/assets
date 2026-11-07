@@ -31,6 +31,7 @@ Inspirations. Assets. Utilities.
 - [Impeccable](https://impeccable.style/) The missing design vocabulary for agents.
 - [Emil Kowalski's Skills](https://github.com/emilkowalski/skills) For designers and engineers to help them build better user interfaces.
 - [Atharvsinh Jadav's Skills](https://github.com/Atharvsinh-codez/skills) Give your AI agent a design image. Get back a real, responsive website.
+- [Open Design](https://open-design.ai/skills/) 244 design skills for presentations, interfaces, brand systems, motion, research, and more, cataloged from actual SKILL.md files.
 
 ### Components & Animation
 - [Kinetics](https://kinetics.colorion.co/) Spring animation examples for CSS and React.
@@ -42,13 +43,15 @@ Inspirations. Assets. Utilities.
 - [Arc UI](https://uiarc.dev/) The React UI library your AI agents can build with.
 - [Audio cn](https://www.audiocn.dev/) Meters, faders, knobs, visualizers and a complete mixer for React. Built the shadcn way, so you own every line.
 - [Gauge UI](https://www.gauge-ui.dev/) Composable SVG gauge components for React, ready to integrate into your projects.
+- [Ovioui](https://ovioui.vercel.app/) Ovio is a component library for the parts developers put in public.
 
 ### Icons
 - [Encyclopedia](https://encyclopedia.iconography.co/) The Iconography Encyclopedia.
 - [Icon Museum](https://icon.museum/) A collection of iconic app icons, beautifully preserved
 
 ### Wireframing
-[Squig](https://squig.sh/) squig is a design and rapid prototyping (wireframing) tool for creating user interface (UI) mockups.
+- [Squig](https://squig.sh/) squig is a design and rapid prototyping (wireframing) tool for creating user interface (UI) mockups.
+- [Awesome Design](https://github.com/VoltAgent/awesome-design-md) Copy a DESIGN.md into your project.
 
 ### Extensions
 - [Squints](https://squints.app/) Design is moving into code.
