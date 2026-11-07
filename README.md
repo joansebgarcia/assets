@@ -30,6 +30,7 @@ Inspirations. Assets. Utilities.
 - [Logo Design Skill](https://github.com/kaankiziltug/logo-design-skill) A comprehensive logo-design skill for Agents.
 - [Impeccable](https://impeccable.style/) The missing design vocabulary for agents.
 - [Emil Kowalski's Skills](https://github.com/emilkowalski/skills) For designers and engineers to help them build better user interfaces.
+- [Atharvsinh Jadav's Skills](https://github.com/Atharvsinh-codez/skills) Give your AI agent a design image. Get back a real, responsive website.
 
 ### Components & Animation
 - [Kinetics](https://kinetics.colorion.co/) Spring animation examples for CSS and React.
