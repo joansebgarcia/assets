@@ -69,6 +69,9 @@ Inspirations. Assets. Utilities.
 - [AWS Open Source](https://aws.amazon.com/opensource/) Amazon Web Services' open source projects and contributions.
 - [Uber Open Source](https://uber.github.io/) Uber's open source projects.
 
+### Agents Skills
+- [BeautifulRust](https://github.com/morganlinton/BeautifulRust) Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config.
+
 ## Blogs
 
 ### Agents
