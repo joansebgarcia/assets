@@ -32,7 +32,7 @@ Inspirations. Assets. Utilities.
 - [Emil Kowalski's Skills](https://github.com/emilkowalski/skills) For designers and engineers to help them build better user interfaces.
 - [Atharvsinh Jadav's Skills](https://github.com/Atharvsinh-codez/skills) Give your AI agent a design image. Get back a real, responsive website.
 - [Open Design](https://open-design.ai/skills/) 244 design skills for presentations, interfaces, brand systems, motion, research, and more, cataloged from actual SKILL.md files.
-- [Material design 3 ui Skill](https://github.com/skydashnet/material-design-3-ui-skill)
+- [Material design 3 ui Skill](https://github.com/skydashnet/material-design-3-ui-skill) A reusable Agent Skill for designing, reviewing, and implementing UI/UX with Google Material Design 3.
 
 ### Components & Animation
 - [Kinetics](https://kinetics.colorion.co/) Spring animation examples for CSS and React.
