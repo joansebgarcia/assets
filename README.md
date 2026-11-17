@@ -56,6 +56,7 @@ Inspirations. Assets. Utilities.
 
 ### Extensions
 - [Squints](https://squints.app/) Design is moving into code.
+- [Artemis](https://github.com/google/artemis) ARTEMIS turns natural-language instructions into reliable Android automation.
 
 ### Mermaid
 - [Pele](https://pele.run/) Pele is a lightweight open source library that renders Mermaid diagrams to SVG, themed with CSS variables.
