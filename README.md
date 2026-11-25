@@ -34,6 +34,7 @@ Inspirations. Assets. Utilities.
 - [Open Design](https://open-design.ai/skills/) 244 design skills for presentations, interfaces, brand systems, motion, research, and more, cataloged from actual SKILL.md files.
 - [Material design 3 ui Skill](https://github.com/skydashnet/material-design-3-ui-skill) A reusable Agent Skill for designing, reviewing, and implementing UI/UX with Google Material Design 3.
 - [Senior Frontend Skill](https://www.aitmpl.com/component/skills/development/senior-frontend) You MUST use this whenever you build, change or review user interface code, including small UI.
+- [Topinspo Skills UI](https://www.topinspo.design/skills) I’m Ian, a product designer making all sorts of odds and ends.
 
 ### Components & Animation
 - [Kinetics](https://kinetics.colorion.co/) Spring animation examples for CSS and React.
