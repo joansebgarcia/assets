@@ -47,6 +47,8 @@ Inspirations. Assets. Utilities.
 - [Audio cn](https://www.audiocn.dev/) Meters, faders, knobs, visualizers and a complete mixer for React. Built the shadcn way, so you own every line.
 - [Gauge UI](https://www.gauge-ui.dev/) Composable SVG gauge components for React, ready to integrate into your projects.
 - [Ovioui](https://ovioui.vercel.app/) Ovio is a component library for the parts developers put in public.
+- [sakuga-vfx](https://github.com/finktheartist/sakuga-vfx) Twelve ordinary UI controls that react like anime. One file each, no dependencies.
+
 
 ### Portfolios
 - [Directoryyy](https://directoryyy.com/) a hand-picked directory of the most beautiful personal sites on the internet.
