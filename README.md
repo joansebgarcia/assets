@@ -93,5 +93,8 @@ Inspirations. Assets. Utilities.
 - [Design System 001](./images/system_design_roadmap_001.jpeg) Concepts that organize a software design into a complete workflow
 - [Learn Design System](https://designed-to-scale.vercel.app)
 
+### Algorithms
+- [byte-sized-algorithms](https://byte-sized-algorithms.vercel.app/#/big-o/1)
+
 ### Architecture
 - [Tomato Architecture](https://tomato-architecture.github.io/) Tomato Architecture is a pragmatic approach to software architecture following the Core Principles
