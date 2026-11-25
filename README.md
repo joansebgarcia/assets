@@ -47,6 +47,10 @@ Inspirations. Assets. Utilities.
 - [Gauge UI](https://www.gauge-ui.dev/) Composable SVG gauge components for React, ready to integrate into your projects.
 - [Ovioui](https://ovioui.vercel.app/) Ovio is a component library for the parts developers put in public.
 
+### Portfolios
+- [Directoryyy](https://directoryyy.com/) a hand-picked directory of the most beautiful personal sites on the internet.
+
+
 ### Icons
 - [Encyclopedia](https://encyclopedia.iconography.co/) The Iconography Encyclopedia.
 - [Icon Museum](https://icon.museum/) A collection of iconic app icons, beautifully preserved
@@ -86,6 +90,7 @@ Inspirations. Assets. Utilities.
 ### Design System
 
 - [Design System 001](./images/system_design_roadmap_001.jpeg) Concepts that organize a software design into a complete workflow
+- [Learn Design System](https://designed-to-scale.vercel.app)
 
 ### Architecture
 - [Tomato Architecture](https://tomato-architecture.github.io/) Tomato Architecture is a pragmatic approach to software architecture following the Core Principles
