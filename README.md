@@ -54,6 +54,7 @@ Inspirations. Assets. Utilities.
 ### Wireframing
 - [Squig](https://squig.sh/) squig is a design and rapid prototyping (wireframing) tool for creating user interface (UI) mockups.
 - [Awesome Design](https://github.com/VoltAgent/awesome-design-md) Copy a DESIGN.md into your project.
+- [SignDoc](https://github.com/NYLLON-SOFTWARE/SignuDoc) Open-source document signature platform. Not affiliated with DocuSign.
 
 ### Extensions
 - [Squints](https://squints.app/) Design is moving into code.
